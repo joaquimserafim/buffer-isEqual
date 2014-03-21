@@ -1,6 +1,6 @@
 {
   "name": "buffer-isequal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "verify if two buffers are equal",
   "main": "index.js",
   "directories": {

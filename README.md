@@ -11,7 +11,7 @@ verify if two buffers are equal
 
 **V1**
 
-    var bisEqual = require('buffer-isEqual');
+    var bisEqual = require('buffer-isequal');
     
     var str = 'Node.js is a platform built on Chrome\'s JavaScript runtime.';
     

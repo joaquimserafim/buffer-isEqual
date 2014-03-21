@@ -1,0 +1,26 @@
+{
+  "name": "buffer-isEqual",
+  "version": "1.0.0",
+  "description": "verify if two buffers are equal",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquimserafim/buffer-isEqual"
+  },
+  "keywords": [
+    "buffer",
+    "equal"
+  ],
+  "author": "@joaquimserafim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaquimserafim/buffer-isEqual/issues"
+  },
+  "homepage": "https://github.com/joaquimserafim/buffer-isEqual"
+}

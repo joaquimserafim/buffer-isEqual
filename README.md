@@ -1,6 +1,6 @@
 # buffer-isEqual
 
-<a href="https://nodei.co/npm/buffer-isEqual/"><img src="https://nodei.co/npm/buffer-isEqual.png?downloads=true"></a>
+<a href="https://nodei.co/npm/buffer-isequal/"><img src="https://nodei.co/npm/buffer-isequal.png?downloads=true"></a>
 
 [![Build Status](https://travis-ci.org/joaquimserafim/buffer-isEqual.png?branch=master)](https://travis-ci.org/joaquimserafim/buffer-isEqual)
 
